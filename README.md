@@ -5,10 +5,7 @@
 	<a href="https://github.com/sudipbhakat07?tab=repositories"><img src="https://badges.pufler.dev/repos/sudipbhakat07" alt="sudipbhakat07" /> </a>
 </p>
 
-"Hi, Abhishek Tilwar is a Pre-final year CSE Undergrad with an interest in Cloud Computing, Machine Learning, Android and Web Development. He loves to combine his passion with software development skills to build new products."
-
-Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing *to make the students well versed with development & programming*.
-I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
+"Hello,I am Sudip Bhakat, a 3rd year student of B.E(Information Technology) at Sinhgad Institute of Technology and Science, Pune. I have in depth knowledge of Core Java and decent knowledge of Kotlin and Android Development."
 
 
 ### About Me 🚀
