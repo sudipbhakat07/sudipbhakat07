@@ -3,7 +3,7 @@
 
 Hello, I am Sudip Bhakat, a 3rd year student of B.E(Information Technology) at Sinhgad Institute of Technology and Science, Pune. <br>
 I have in depth knowledge of Core Java and decent knowledge of Kotlin and Android Development. 
-I have also worked on some android apps projects."
+I have also worked on some android projects."
 
 
 <h2 align="center">Connect Me !! 🤝</h2> 
