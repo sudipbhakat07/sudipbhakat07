@@ -27,10 +27,3 @@ Here are some ideas to get you started:
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
 
-
-<br>
-
-<br>
-<p align="center"> <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" width="495px" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudipbhakat07&show_icons=true" alt="sudipbhakat07" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipbhakat07&layout=compact" alt="sudipbhakat07" /> </p>
