@@ -5,14 +5,8 @@
 	<a href="https://github.com/sudipbhakat07?tab=repositories"><img src="https://badges.pufler.dev/repos/sudipbhakat07" alt="sudipbhakat07" /> </a>
 </p>
 
-"Hello,I am Sudip Bhakat, a 3rd year student of B.E(Information Technology) at Sinhgad Institute of Technology and Science, Pune. I have in depth knowledge of Core Java and decent knowledge of Kotlin and Android Development."
+"Hello, I am Sudip Bhakat, a 3rd year student of B.E(Information Technology) at Sinhgad Institute of Technology and Science, Pune. I have in depth knowledge of Core Java and decent knowledge of Kotlin and Android Development. I have worked on some android apps projects."
 
-
-### About Me 🚀
-Here are some ideas to get you started:		
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="395px" />
-- 🔭 I’m currently involved in Android Development.
-- 🤓 I have worked on some android apps projects. 
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
@@ -20,7 +14,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/sudipbhakat07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/sudip-bhakat/" target="_blank">
+<a href="www.linkedin.com/in/sudip-bhakat-b62a771a5" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sudipbhakat01@gmail.com">
