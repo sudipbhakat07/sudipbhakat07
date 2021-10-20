@@ -1,6 +1,6 @@
 ## Hey, I'm Sudip Bhakat <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-🎓 I'm in the 3rd year of B.E (Information Technology) <br>
+🎓 I'm a 3rd year student of B.E (Information Technology) <br>
 🔭 I’m currently working on my Android Projects. <br>
 🧠 I am also learning Data structures and Algorithms & more about Mobile App Development with Kotlin. <br>
 🎯 I’m focusing on Tech Advancement<br>
