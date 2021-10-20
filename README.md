@@ -1,4 +1,4 @@
-## Hey, I'm Sudip <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## Hey there<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">! I'm Sudip Bhakat 🙋‍♂️
 
 🎓 I'm a 3rd year student of B.E (Information Technology) <br>
 🔭 I’m currently working on my Android Projects. <br>
