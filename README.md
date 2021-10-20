@@ -1,4 +1,4 @@
-## Hey, I'm Sudip Bhakat <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## Hey, I'm Sudip <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 🎓 I'm a 3rd year student of B.E (Information Technology) <br>
 🔭 I’m currently working on my Android Projects. <br>
@@ -18,4 +18,6 @@
 <a href="mailto:sudipbhakat01@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
+  
+  [![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=sudipbhakat07&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/sudipbhakat07)
 
