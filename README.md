@@ -1,25 +1,13 @@
-## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-Hello World! , I'm Sudip Bhakat 
-A Curious Learner
-Hello, Coder; Welcome!! Repos Badge Open Source Love aadityamp01
+## Hey, I'm Sudip Bhakat <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-
-GIF
-
-🎓 I'm in the 3rd year of B.E Computer Engineering.
-🔭 I’m currently working on my Android Projects
-🧠 I am currently learning Data structures and algorithms, && Mobile apps with Kotlin
+🎓 I'm in the 3rd year of B.E (Information Technology).
+🔭 I’m currently working on my Android Projects.
+🧠 I am currently learning Data structures and Algorithms && Mobile apps with Kotlin
 👯 I’m looking to collaborate on Anything related to Android and Open Source
-💬 Ask me about Android Dev, Web Tech and Books + Movies😉
-📫 How to reach me: ampicopn@gmail.com
+💬 Ask me about Android Development, Books📚 , Fitness Stuffs🏋️‍♂️ , Movies😉
 🎯 I’m focusing on Tech Advancement
 
-Hello, I am Sudip Bhakat, a 3rd year student of B.E(Information Technology) at Sinhgad Institute of Technology and Science, Pune. <br>
-I have in depth knowledge of Core Java and decent knowledge of Kotlin and Android Development. 
-I have also worked on some android projects."
-
-
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">Connect With Me !! 🤝</h2> 
 
 <p align="center">
 <a href="https://github.com/sudipbhakat07" target="_blank">
