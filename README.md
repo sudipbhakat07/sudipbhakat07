@@ -6,6 +6,8 @@
 🎯 I’m focusing on Tech Advancement<br>
 💬 Love to Code💻, Workout🏋️‍, Read Books📚 and Travel🌄<br>
 
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
 <h2 align="center">Connect With Me !! 🤝</h2> 
 
 <p align="center">
